@@ -1,1 +1,3 @@
 Das ist Text A geschrieben von mprattinger
+
+Das hier ist ein Konflikt
